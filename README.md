@@ -8,13 +8,15 @@ Just someone interested in computers, security, and figuring out how things work
 
 ## 👤 About Me
 
-- 🔎 Known as **xpl01t**
+- 🔎 **Known as:** xpl01t
 - 🔐 Interested in cybersecurity and ethical hacking
 - 🐧 Learning Linux, especially Arch Linux and Kali Linux
 - 🐍 Learning Python and getting into scripting
 - 🌐 Interested in networking, web security, and penetration testing
-- 🧪 Messing around with labs, CTFs, and security tools
-- 📚 Still learning, experimenting, and trying to get better every day
+- 🧪 Experimenting with labs, CTFs, and security tools
+- 📚 Always learning something new and trying to improve
+
+---
 
 ## 🧠 Interests
 
@@ -28,29 +30,40 @@ Just someone interested in computers, security, and figuring out how things work
 - 🛡️ Vulnerability Research
 - 🔬 Malware Analysis
 
+---
+
 ## 🧰 Languages & Tools
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,arch,kali,linux,git,vscode" alt="Python, Arch Linux, Kali Linux, Linux, Git and VS Code" />
+  <img src="https://skillicons.dev/icons?i=python,arch,kali,linux,github,vscode" alt="Python, Arch Linux, Kali Linux, Linux, GitHub and VS Code" />
 </p>
 
-## 🎯 What I'm Working Towards
+---
+
+## 🎯 Goals
 
 - [ ] Get more comfortable with Arch Linux
 - [ ] Improve my Python skills
 - [ ] Learn networking properly
-- [ ] Understand how web vulnerabilities work
+- [ ] Understand web vulnerabilities and how to fix them
 - [ ] Get better at CTFs and hands-on security labs
 - [ ] Build my own cybersecurity tools
 - [ ] Learn more about penetration testing
-- [ ] Start documenting my findings and projects
+- [ ] Document my projects and what I learn
 - [ ] Keep improving and see where cybersecurity takes me
 
-## 🚀 Current Focus
+---
 
-Right now, I'm focusing on learning the basics, trying out different tools, and getting more hands-on experience.
+## 🚀 Currently Learning
 
-I'm especially interested in Linux, networking, Python, and understanding how vulnerabilities happen and how they can be fixed.
+- 🐧 Linux and system administration
+- 🐍 Python scripting and automation
+- 🌐 Networking and common protocols
+- 🔐 Cybersecurity fundamentals
+- 🕸️ Web application security
+- 🧪 Hands-on practice with CTFs and security labs
+
+---
 
 ## 📂 Projects
 
@@ -59,10 +72,12 @@ You'll find my projects, experiments, and things I've learned here as I go.
 - 🐍 Python scripts
 - 🔐 Cybersecurity tools
 - 🧩 CTF write-ups
-- 📚 Notes and useful commands
+- 📚 Notes, commands, and useful resources
 - 🧪 Experiments from my own labs
 
-More stuff coming as I learn.
+*More projects coming as I learn.*
+
+---
 
 ## 📊 GitHub Stats
 
@@ -73,6 +88,8 @@ More stuff coming as I learn.
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xpl01t&layout=compact&theme=transparent&hide_border=true" alt="Most Used Languages" />
 </p>
+
+---
 
 ## 🔗 Find Me
 
