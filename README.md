@@ -93,7 +93,9 @@ You'll find my projects, experiments, and things I've learned here as I go.
 
 ## 🔗 Find Me
 
-- 🐙 GitHub: [@xpl01t](https://github.com/xpl01t)
+- 🌐 **Website:** [xpl01tt.dev](https://xpl01tt.dev/)
+- 🎵 **TikTok:** [@xavioncc](https://www.tiktok.com/@xavioncc)
+- 🐙 **GitHub:** [@xpl01t](https://github.com/xpl01t)
 
 ---
 
