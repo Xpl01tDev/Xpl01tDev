@@ -1,114 +1,85 @@
-# 💻 Hey, I'm xpl01t 💻
+# 💻 Hey, I'm xpl01t
 
-### 🔐 Cybersecurity Enthusiast
+### 🔐 Learning Cybersecurity & Ethical Hacking
 
-`xpl01t` · Learning to understand systems from the inside out.
+Just someone interested in computers, security, and figuring out how things work behind the scenes.
 
 ---
 
-## 👤 Me
+## 👤 About Me
 
-- 🔎 **Known as:** xpl01t
-- 🔐 **Field:** Cybersecurity & Ethical Hacking
-- 💻 **Main interests:** Security research, scripting & system security
-- 📚 **Currently:** Learning and building practical skills
-- 🧠 **Mindset:** Stay curious, think differently, never stop learning
-- 🎯 **Goal:** Become a skilled cybersecurity professional
+- 🔎 Known as **xpl01t**
+- 🔐 Interested in cybersecurity and ethical hacking
+- 🐧 Learning Linux, especially Arch Linux and Kali Linux
+- 🐍 Learning Python and getting into scripting
+- 🌐 Interested in networking, web security, and penetration testing
+- 🧪 Messing around with labs, CTFs, and security tools
+- 📚 Still learning, experimenting, and trying to get better every day
 
-## 💡 About Me
+## 🧠 Interests
 
-- 🔍 Exploring the world of cybersecurity and ethical hacking
-- 🐧 Learning Linux, command-line tools, and system administration
-- 🌐 Studying computer networks, protocols, and web technologies
-- 🐍 Developing my Python skills for scripting and automation
-- 🛡️ Interested in penetration testing and vulnerability research
-- 🧪 Practicing with CTFs and authorized security labs
-- 📈 Documenting my progress and projects on GitHub
-- ⚡ Always looking for something new to learn
-
-## 🧠 Knowledge & Interests
-
-- 🔐 Cybersecurity Fundamentals
+- 🔐 Cybersecurity & Ethical Hacking
+- 🐧 Linux & System Administration
 - 🌐 Networking & TCP/IP
-- 🐧 Linux & Command-Line Environments
-- 🐍 Python Scripting & Automation
-- 🔎 Ethical Hacking & Penetration Testing
+- 🐍 Python Scripting
+- 🔎 Penetration Testing
 - 🕸️ Web Application Security
-- 🧩 Capture The Flag (CTF) Challenges
-- 🛡️ Defensive Security & Threat Detection
-- 🔬 Vulnerability Research
-- ⚙️ Git, GitHub & Development Workflows
-
-*Currently learning — building practical experience one step at a time.*
-
-## 🎯 Milestones
-
-- [ ] Build a strong foundation in cybersecurity
-- [ ] Improve my Python programming skills
-- [ ] Become comfortable with Linux
-- [ ] Understand networking and common protocols
-- [ ] Learn web application security
-- [ ] Complete beginner and intermediate CTF challenges
-- [ ] Build useful cybersecurity scripts and tools
-- [ ] Learn the fundamentals of penetration testing
-- [ ] Explore malware analysis and reverse engineering
-- [ ] Publish lab notes and CTF write-ups
-- [ ] Discover and responsibly report a valid vulnerability
-- [ ] Contribute to the cybersecurity community
+- 🧩 CTF Challenges
+- 🛡️ Vulnerability Research
+- 🔬 Malware Analysis
 
 ## 🧰 Languages & Tools
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,bash,linux,kali,git,github,vscode" alt="Python, Bash, Linux, Kali Linux, Git, GitHub and VS Code" />
+  <img src="https://skillicons.dev/icons?i=python,arch,kali,linux,git,vscode" alt="Python, Arch Linux, Kali Linux, Linux, Git and VS Code" />
 </p>
 
-**Areas I'm exploring:**
+## 🎯 What I'm Working Towards
 
-`Python` · `Bash` · `Linux` · `Networking` · `Web Security` · `CTFs`
+- [ ] Get more comfortable with Arch Linux
+- [ ] Improve my Python skills
+- [ ] Learn networking properly
+- [ ] Understand how web vulnerabilities work
+- [ ] Get better at CTFs and hands-on security labs
+- [ ] Build my own cybersecurity tools
+- [ ] Learn more about penetration testing
+- [ ] Start documenting my findings and projects
+- [ ] Keep improving and see where cybersecurity takes me
 
 ## 🚀 Current Focus
 
-- 🐧 Improving my Linux and terminal skills
-- 🌐 Learning how networks communicate and where security problems occur
-- 🐍 Writing Python scripts to automate tasks
-- 🔎 Understanding common web vulnerabilities and how to prevent them
-- 🧪 Practicing ethical hacking in legal labs and CTF environments
-- 📂 Creating and documenting projects as I progress
+Right now, I'm focusing on learning the basics, trying out different tools, and getting more hands-on experience.
 
-## 📂 Projects & Research
+I'm especially interested in Linux, networking, Python, and understanding how vulnerabilities happen and how they can be fixed.
 
-This is where I'll share what I build and learn along the way.
+## 📂 Projects
 
-- 🔧 **Security Tools** — scripts and cybersecurity utilities
-- 🧪 **CTF Write-ups** — challenge solutions and lessons learned
-- 📚 **Learning Notes** — useful commands, concepts, and discoveries
-- 🌐 **Security Labs** — experiments in controlled environments
-- 🐍 **Python Projects** — automation and security-related scripts
+You'll find my projects, experiments, and things I've learned here as I go.
 
-*More projects coming soon.*
+- 🐍 Python scripts
+- 🔐 Cybersecurity tools
+- 🧩 CTF write-ups
+- 📚 Notes and useful commands
+- 🧪 Experiments from my own labs
+
+More stuff coming as I learn.
 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=xpl01t&show_icons=true&theme=transparent&hide_border=true&rank_icon=github" alt="xpl01t's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=xpl01t&show_icons=true&theme=transparent&hide_border=true" alt="xpl01t's GitHub Stats" />
 </p>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xpl01t&layout=compact&theme=transparent&hide_border=true" alt="Most Used Languages" />
 </p>
 
-## 🔗 Connect With Me
+## 🔗 Find Me
 
-- 🐙 **GitHub:** [@xpl01t](https://github.com/xpl01t)
-
-*More links coming soon.*
+- 🐙 GitHub: [@xpl01t](https://github.com/xpl01t)
 
 ---
 
 <p align="center">
-  <code>Understand the system. Find the weakness. Improve the security.</code>
-</p>
-
-<p align="center">
-  🔐 <i>Learning in public · Hacking ethically · Building consistently</i> 🔐
+  <code>stay curious. keep learning. hack ethically.</code>
 </p>
