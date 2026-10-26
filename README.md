@@ -1,6 +1,6 @@
 # 💻 Hey, I'm xpl01t 💻
 
-### 🔐 Cybersecurity Enthusiast & Aspiring Security Researcher 🔐
+### 🔐 Cybersecurity Enthusiast
 
 `xpl01t` · Learning to understand systems from the inside out.
 
