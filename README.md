@@ -42,7 +42,7 @@ Just someone interested in computers, security, and figuring out how things work
 
 ## 🎯 Goals
 
-- [ ] Get more comfortable with Arch Linux
+- [] Get more comfortable with Arch Linux
 - [ ] Improve my Python skills
 - [ ] Learn networking properly
 - [ ] Understand web vulnerabilities and how to fix them
