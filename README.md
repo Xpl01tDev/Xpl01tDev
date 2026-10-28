@@ -42,12 +42,11 @@ Just someone interested in computers, security, and figuring out how things work
 
 ## 🎯 Goals
 
-- [x] Get more comfortable with Arch Linux
-- [ ] Improve my Python skills
+- [x] Get more comfortable with Linux
+- [x] Mastering Python
 - [ ] Learn networking properly
 - [ ] Understand web vulnerabilities and how to fix them
 - [ ] Get better at CTFs and hands-on security labs
-- [ ] Build my own cybersecurity tools
 - [ ] Learn more about penetration testing
 - [ ] Document my projects and what I learn
 - [ ] Keep improving and see where cybersecurity takes me
