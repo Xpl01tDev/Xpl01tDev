@@ -49,16 +49,13 @@ Just someone interested in computers, security, and figuring out how things work
 - [ ] Get better at CTFs and hands-on security labs
 - [ ] Learn more about penetration testing
 - [ ] Document my projects and what I learn
-- [ ] Keep improving and see where cybersecurity takes me
+- [ ] Get a job at cybersecurity
 
 ---
 
 ## 🚀 Currently Learning
 
-- 🐧 Linux and system administration
-- 🐍 Python scripting and automation
-- 🌐 Networking and common protocols
-- 🔐 Cybersecurity fundamentals
+- 🐍 C++
 - 🕸️ Web application security
 - 🧪 Hands-on practice with CTFs and security labs
 
@@ -68,11 +65,7 @@ Just someone interested in computers, security, and figuring out how things work
 
 You'll find my projects, experiments, and things I've learned here as I go.
 
-- 🐍 Python scripts
-- 🔐 Cybersecurity tools
-- 🧩 CTF write-ups
-- 📚 Notes, commands, and useful resources
-- 🧪 Experiments from my own labs
+- Multi engine antivirus/file scanner
 
 *More projects coming as I learn.*
 
