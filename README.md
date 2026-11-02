@@ -10,8 +10,8 @@ Just someone interested in computers, security, and figuring out how things work
 
 - 🔎 **Known as:** xpl01t
 - 🔐 Interested in cybersecurity and ethical hacking
-- 🐧 Learning Linux, especially Arch Linux and Kali Linux
-- 🐍 Learning Python and getting into scripting
+- 🐧 Learning Linux, especially Arch Linux
+- 🐍 I code mostly in python
 - 🌐 Interested in networking, web security, and penetration testing
 - 🧪 Experimenting with labs, CTFs, and security tools
 - 📚 Always learning something new and trying to improve
@@ -21,14 +21,15 @@ Just someone interested in computers, security, and figuring out how things work
 ## 🧠 Interests
 
 - 🔐 Cybersecurity & Ethical Hacking
-- 🐧 Linux & System Administration
-- 🌐 Networking & TCP/IP
-- 🐍 Python Scripting
+- 🐧 Linux
+- 🌐 Networking
+- 🐍 Coding
 - 🔎 Penetration Testing
 - 🕸️ Web Application Security
 - 🧩 CTF Challenges
 - 🛡️ Vulnerability Research
 - 🔬 Malware Analysis
+- 🔐 Reverse Engineering
 
 ---
 
@@ -44,11 +45,10 @@ Just someone interested in computers, security, and figuring out how things work
 
 - [x] Get more comfortable with Linux
 - [x] Mastering Python
-- [ ] Learn networking properly
+- [x] Learn networking properly
+- [x] Document my projects and what I learn
 - [ ] Understand web vulnerabilities and how to fix them
-- [ ] Get better at CTFs and hands-on security labs
-- [ ] Learn more about penetration testing
-- [ ] Document my projects and what I learn
+- [ ] Get better at CTF's and other labs
 - [ ] Get a job at cybersecurity
 
 ---
@@ -57,13 +57,13 @@ Just someone interested in computers, security, and figuring out how things work
 
 - 🐍 C++
 - 🕸️ Web application security
-- 🧪 Hands-on practice with CTFs and security labs
+- 💰 Bug Bounty Hunting
 
 ---
 
 ## 📂 Projects
 
-You'll find my projects, experiments, and things I've learned here as I go.
+You'll find my projects here on this page
 
 - Multi engine antivirus/file scanner
 
