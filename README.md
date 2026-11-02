@@ -88,7 +88,3 @@ You'll find my projects here on this page
 - 🌐 **Website:** [**xpl01tt.dev**](https://xpl01tt.dev/)
 - 🎵 **TikTok:** [**@xavioncc**](https://www.tiktok.com/@xpl01tt)
 ---
-
-<p align="center">
-  <code>stay curious. keep learning. hack ethically.</code>
-</p>
