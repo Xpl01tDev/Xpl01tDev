@@ -86,5 +86,5 @@ You'll find my projects here on this page
 ## 🔗 Find Me
 
 - 🌐 **Website:** [**xpl01tt.dev**](https://xpl01tt.dev/)
-- 🎵 **TikTok:** [**@xavioncc**](https://www.tiktok.com/@xpl01tt)
+- 🎵 **TikTok:** [**@xpl01tt**](https://www.tiktok.com/@xpl01tt)
 ---
