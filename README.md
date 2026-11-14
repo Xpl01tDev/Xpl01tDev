@@ -8,13 +8,12 @@ Just someone interested in computers, security, and figuring out how things work
 
 ## 👤 About Me
 
-- 🔎 **Known as:** xpl01t
+- 🔎 **Known as:** Xpl01t
 - 🔐 Interested in cybersecurity and ethical hacking
 - 🐧 Learning Linux, especially Arch Linux
 - 🐍 I code mostly in python
 - 🌐 Interested in networking, web security, and penetration testing
 - 🧪 Experimenting with labs, CTFs, and security tools
-- 📚 Always learning something new and trying to improve
 
 ---
 
@@ -47,8 +46,9 @@ Just someone interested in computers, security, and figuring out how things work
 - [x] Mastering Python
 - [x] Learn networking properly
 - [x] Document my projects and what I learn
-- [ ] Understand web vulnerabilities and how to fix them
-- [ ] Get better at CTF's and other labs
+- [x] Get better at CTF's and other labs
+- [ ] Mastering web security
+- [ ] Master C++
 - [ ] Get a job at cybersecurity
 
 ---
@@ -63,7 +63,7 @@ Just someone interested in computers, security, and figuring out how things work
 
 ## 📂 Projects
 
-You'll find my projects here on this page
+You'll find my projects here on this page below.
 
 - Multi engine antivirus/file scanner
 - ChromElevatorExtracter
