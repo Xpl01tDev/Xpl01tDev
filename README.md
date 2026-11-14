@@ -66,8 +66,9 @@ Just someone interested in computers, security, and figuring out how things work
 You'll find my projects here on this page
 
 - Multi engine antivirus/file scanner
+- ChromElevatorExtracter
 
-*More projects coming as I learn.*
+*More projects coming.*
 
 ---
 
